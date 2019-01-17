@@ -68,7 +68,7 @@ if __name__ == "__main__":
     u = Upstox(api_key,access_token)
     fetch_index()
     
-    execute_time=custom_time(18,36,0)
+    execute_time=custom_time(9,0,1)
     order=order_execution('MCX_FO','copper19febfut',execute_time)
     
     with open('order.txt', 'w') as o:
