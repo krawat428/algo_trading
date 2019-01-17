@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from upstox_api.api import *
 import time
 from selenium import webdriver
