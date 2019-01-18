@@ -15,7 +15,7 @@ import os
 
 api_key = ''
 api_secret=''
-usernam=''
+username=''
 password=''
 password_2fa=''
 
