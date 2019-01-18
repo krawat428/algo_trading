@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver import Chrome
 import os
 
-#password 2fa is date of year
+#password 2fa is year of birth
 
 api_key = ''
 api_secret=''
