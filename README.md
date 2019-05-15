@@ -1,4 +1,4 @@
-# alog_trading
+# algo_trading
 <br/>
 upstox_token_generation.py <br/>
 <br/>
